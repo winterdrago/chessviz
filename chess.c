@@ -1,6 +1,8 @@
-#include <stdio.h>
-
-int main()
-{
-printf("\n 8 L H E K Q E H L\n 7 S S S S S S S S\n 6\n 5\n 4\n 3\n 2 s s s s s s s s\n 1 l h e k q e h l\n   A B C D E F G H\n");
-}
+# include <stdio.h>
+# include <conio.h>
+main()
+{ 
+	printf("8 R N B K Q B N R \n7 P P P P P P P P \n6 \n5 \n4 \n3 \n2 P P P P P P P P \n1 R N B K Q B N R \n
+  a b c d e f g h");
+getch();
+} 
